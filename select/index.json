@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "PULL UP",
+  "base_artist": "LANA",
+  "createdAt": "2026-02-06T07:48:10.643096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pull up on a Kid",
+      "artist": "Young Thug feat. Yak Gotti",
+      "has_synced": true,
+      "path": "select/01_Pull_up_on_a_Kid_Young_Thug_feat._Yak_Gotti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pull Up On A Kid (Feat. Yak Gotti)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/02_Pull_Up_On_A_Kid_(Feat._Yak_Gotti)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pull Up",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/03_Pull_Up_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pull Up (feat. Lil Uzi Vert & YNW Melly)",
+      "artist": "Lil Keed feat. YNW Melly & Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/04_Pull_Up_(feat._Lil_Uzi_Vert_&_YNW_Melly)_Lil_Keed_feat._YNW_Melly_&_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pull Up (feat. Lil Uzi Vert & YNW Melly)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/05_Pull_Up_(feat._Lil_Uzi_Vert_&_YNW_Melly)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pull Up",
+      "artist": "Mikey the Magician",
+      "has_synced": false,
+      "path": "select/06_Pull_Up_Mikey_the_Magician.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pull Up",
+      "artist": "Matt Ox feat. Key!",
+      "has_synced": true,
+      "path": "select/07_Pull_Up_Matt_Ox_feat._Key!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pull Up (feat. Key!)",
+      "artist": "Matt OX",
+      "has_synced": true,
+      "path": "select/08_Pull_Up_(feat._Key!)_Matt_OX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pull Up the People (D'Explicit Remix)",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/09_Pull_Up_the_People_(D'Explicit_Remix)_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pull Up The People",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/10_Pull_Up_The_People_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pull Up the People",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/11_Pull_Up_the_People_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pull Up (feat. NAV)",
+      "artist": "A Boogie Wit da Hoodie feat. NAV",
+      "has_synced": true,
+      "path": "select/12_Pull_Up_(feat._NAV)_A_Boogie_Wit_da_Hoodie_feat._NAV.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pull Up (feat. NAV)",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/13_Pull_Up_(feat._NAV)_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pull Up (feat. NAV)",
+      "artist": "A Boogie Wit da Hoodie; NAV",
+      "has_synced": true,
+      "path": "select/14_Pull_Up_(feat._NAV)_A_Boogie_Wit_da_Hoodie;_NAV.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pull Up The Roots",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/15_Pull_Up_The_Roots_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pull Up To The Bumper",
+      "artist": "Grace Jones",
+      "has_synced": true,
+      "path": "select/16_Pull_Up_To_The_Bumper_Grace_Jones.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pull Up To The Bumper",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/17_Pull_Up_To_The_Bumper_Grace_Jones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PULL UP",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_PULL_UP_LANA.txt"
+    }
+  ]
+}
